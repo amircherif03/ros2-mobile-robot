@@ -18,3 +18,19 @@ a production-grade robotics framework.
 | OS | Ubuntu 22.04 / Linux |
 
 ## Architecture
+[Lidar / Sensors]
+↓
+[ROS2 Nodes — C++17]
+↓
+[Nav2 Stack] → [Path Planning] → [Motor Control]
+↓
+[Gazebo Simulation]
+## Features
+- [ ] ROS2 node architecture (publisher/subscriber)
+- [ ] Gazebo simulation environment
+- [ ] Nav2 integration for autonomous navigation
+- [ ] Obstacle avoidance
+- [ ] Deployment on Raspberry Pi 4
+
+## Status
+🔄 In progress — Expected completion: August 2026
